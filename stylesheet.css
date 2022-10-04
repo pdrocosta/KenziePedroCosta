@@ -46,6 +46,10 @@ form{
     max-width: 100%;
     margin-top: 10px;
     justify-items: center;
+    padding: 10px;
+    border: dashed white 10px;
+    background-color: black
+    
 }
 footer{
     background-color: blue;
@@ -75,4 +79,7 @@ a:hover{
     width: fit-content;
     border: 5px green solid; 
     
+}
+button{
+    background-color: orange;
 }
